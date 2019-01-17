@@ -1,0 +1,10 @@
+data/val_images\41.jpg
+data/val_images\42.jpg
+data/val_images\43.jpg
+data/val_images\44.jpg
+data/val_images\45.jpg
+data/val_images\46.jpg
+data/val_images\47.jpg
+data/val_images\48.jpg
+data/val_images\49.jpg
+data/val_images\50.jpg
